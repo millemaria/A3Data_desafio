@@ -6,6 +6,6 @@
 
 2- Com o Dockerfile do GitHub , abri o terminal e inserir o comando "docker container run -p 8888:8888 jupyter/pyspark-notebook:latest" 
 
-3- Após isso abri a porta do comando e acessei o jupiter.
+3- Após isso abri a porta do comando e acessei o jupyter.
 
 4- E inserir todas as instalações de pip install , com isso fiz a consulta dos dados e dei o resultado.
