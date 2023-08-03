@@ -1,6 +1,6 @@
 # A3Data_desafio
 
-# Aqui segue algumas intrunções de como foi feito o desafio :
+# Aqui segue algumas instruções de como foi feito o desafio :
 
 1- Para a execução desse projeto abri a plataforma do VsCode e abri um folder com dois files , um com o Dockerfile e ou outro com o Requiriments.txt .
 
